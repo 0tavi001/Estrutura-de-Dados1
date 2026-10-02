@@ -1,0 +1,1 @@
+{"name":"Local: codi2","url":"c:\\Users\\Diego\\Desktop\\exercicios diarios\\codi2.c","tests":[{"id":1756919676909,"input":"3\n5\n12 23 15\n42 12 20\n2\n52 1 11\n1 52 1\n3\n95 12 22\n5 51 21","output":"Guarte\nEmpate\nDabriel"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Diego\\Desktop\\exercicios diarios\\codi2.c","group":"local","local":true}
